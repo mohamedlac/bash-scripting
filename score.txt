@@ -1,0 +1,4 @@
+arsenal 13 10 30
+barcelone 13 12 36
+chelsea 14 11 28
+madrid 12 8 22
